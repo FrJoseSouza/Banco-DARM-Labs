@@ -4,6 +4,8 @@ Funcionalidades que terão:
   Conta de Cliente
     Cadastro
     Login
+      CPF
+      Senha
     Recuperar senha
     Editar perfil
     Cadastro de cartões
